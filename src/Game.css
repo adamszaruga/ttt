@@ -1,0 +1,16 @@
+.Row {
+    display: flex;
+    justify-content: space-between;
+    width: 260px;
+    margin: 0 auto;   
+}
+
+.Tile {
+    width: 33%;
+    text-align: center;
+}
+
+.Tile input {
+    width: 100%;
+    text-align: center;
+}
